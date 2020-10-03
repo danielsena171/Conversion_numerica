@@ -3,4 +3,4 @@
 ### Integrantes: 
 - Daniel Julian sena causil (institucional) 
 - Sebastian Bermudez Ceballos (colaborador, integrante 2)
-- Oscar Emilio Rosso Ayala (colaborador, integrante 3)
+- Oscar Emilio Rosso Ayala (COLABORADOR INTEGRANTE 3)
