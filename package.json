@@ -1,0 +1,25 @@
+{
+  "name": "Conversion_numerica",
+  "version": "1.0.0",
+  "description": "**Se basa en la creación de un cuestionario de conversiones numéricas, se adjuntará una explicación textual y con base a eso, se realizará un taller con temas como convertir decimales a binarios y viceversa.** \r ### Integrantes: \r - Daniel Julian sena causil (institucional) \r - Sebastian Bermudez Ceballos (COLABORADOR INTEGRANTE 2)\r - Oscar Emilio Rosso Ayala (COLABORADOR INTEGRANTE 3)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielsena171/Conversion_numerica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielsena171/Conversion_numerica/issues"
+  },
+  "homepage": "https://github.com/danielsena171/Conversion_numerica#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
